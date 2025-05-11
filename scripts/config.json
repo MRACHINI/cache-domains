@@ -1,0 +1,36 @@
+{
+    "combined_output": true,
+    "ips": {
+        "monolithic":   ["10.10.16.221"]
+    },
+    "cache_domains": {
+        "blizzard":     "monolithic",
+        "epicgames":    "monolithic",
+        "nintendo":     "monolithic",
+        "origin":       "monolithic",
+        "riot":         "monolithic",
+        "sony":         "monolithic",
+        "steam":        "monolithic",
+        "uplay":        "monolithic",
+        "wsus":         "monolithic",
+
+        "default":      "monolithic",
+
+        "arenanet":         "monolithic",
+        "cod":         "monolithic",
+        "bsg":         "monolithic",
+        "cityofheroes":         "monolithic",
+        "daybreak":         "monolithic",
+        "frontier":         "monolithic",
+        "nexusmods":         "monolithic",
+        "neverwinter":         "monolithic",
+        "pathofexile":         "monolithic",
+        "renegadex":         "monolithic",
+        "rockstar":         "monolithic",
+        "square":         "monolithic",
+        "teso":         "monolithic",
+        "warframe":         "monolithic",
+        "wargaming":         "monolithic",
+        "xboxlive":         "monolithic"
+    }
+}
