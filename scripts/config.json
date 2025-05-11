@@ -1,7 +1,7 @@
 {
     "combined_output": true,
     "ips": {
-        "monolithic":   ["10.10.16.221"]
+        "monolithic":   ["10.10.16.243"]
     },
     "cache_domains": {
         "blizzard":     "monolithic",
