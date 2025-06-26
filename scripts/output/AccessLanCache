@@ -1,0 +1,165 @@
+# Arenanet
+|assetcdn.101.arenanetworks.com^$dnsrewrite=10.10.250.1
+|assetcdn.102.arenanetworks.com^$dnsrewrite=10.10.250.1
+|assetcdn.103.arenanetworks.com^$dnsrewrite=10.10.250.1
+# Blizzard
+||cdn.blizzard.com^$dnsrewrite=10.10.250.1
+|blizzard.vo.llnwd.net^$dnsrewrite=10.10.250.1
+|blzddist1-a.akamaihd.net^$dnsrewrite=10.10.250.1
+|blzddist2-a.akamaihd.net^$dnsrewrite=10.10.250.1
+|blzddist3-a.akamaihd.net^$dnsrewrite=10.10.250.1
+|dist.blizzard.com^$dnsrewrite=10.10.250.1
+|dist.blizzard.com.edgesuite.net^$dnsrewrite=10.10.250.1
+|edge.blizzard.top.comcast.net^$dnsrewrite=10.10.250.1
+|level3.blizzard.com^$dnsrewrite=10.10.250.1
+|nydus.battle.net^$dnsrewrite=10.10.250.1
+# Bsg
+|cdn-11.eft-store.com^$dnsrewrite=10.10.250.1
+|cl-453343cd.gcdn.co^$dnsrewrite=10.10.250.1
+# Cityofheroes
+|cdn-eu1.homecomingservers.com^$dnsrewrite=10.10.250.1
+|cdn-na1.homecomingservers.com^$dnsrewrite=10.10.250.1
+|cdn-na2.homecomingservers.com^$dnsrewrite=10.10.250.1
+|cdn-na3.homecomingservers.com^$dnsrewrite=10.10.250.1
+# Cod
+|cod-assets.cdn.callofduty.com^$dnsrewrite=10.10.250.1
+|cod-assets.cdn.callofduty.com.edgesuite.net^$dnsrewrite=10.10.250.1
+# Daybreak
+|pls.patch.daybreakgames.com^$dnsrewrite=10.10.250.1
+# Epicgames
+|cdn.unrealengine.com^$dnsrewrite=10.10.250.1
+|cdn1.epicgames.com^$dnsrewrite=10.10.250.1
+|cdn1.unrealengine.com^$dnsrewrite=10.10.250.1
+|cdn2.epicgames.com^$dnsrewrite=10.10.250.1
+|cdn2.unrealengine.com^$dnsrewrite=10.10.250.1
+|cdn3.unrealengine.com^$dnsrewrite=10.10.250.1
+|cloudflare.epicgamescdn.com^$dnsrewrite=10.10.250.1
+|download.epicgames.com^$dnsrewrite=10.10.250.1
+|download2.epicgames.com^$dnsrewrite=10.10.250.1
+|download3.epicgames.com^$dnsrewrite=10.10.250.1
+|download4.epicgames.com^$dnsrewrite=10.10.250.1
+|egdownload.fastly-edge.com^$dnsrewrite=10.10.250.1
+|epicgames-download1.akamaized.net^$dnsrewrite=10.10.250.1
+|fastly-download.epicgames.com^$dnsrewrite=10.10.250.1
+# Frontier
+|cdn.zaonce.net^$dnsrewrite=10.10.250.1
+# Neverwinter
+|level3.nwhttppatch.crypticstudios.com^$dnsrewrite=10.10.250.1
+# Nexusmods
+|filedelivery.nexusmods.com^$dnsrewrite=10.10.250.1
+# Nintendo
+||hac.lp1.d4c.nintendo.net^$dnsrewrite=10.10.250.1
+||hac.lp1.eshop.nintendo.net^$dnsrewrite=10.10.250.1
+||wup.eshop.nintendo.net^$dnsrewrite=10.10.250.1
+||wup.shop.nintendo.net^$dnsrewrite=10.10.250.1
+|ccs.cdn.wup.shop.nintendo.net^$dnsrewrite=10.10.250.1
+|ccs.cdn.wup.shop.nintendo.net.edgesuite.net^$dnsrewrite=10.10.250.1
+|ecs-lp1.hac.shop.nintendo.net^$dnsrewrite=10.10.250.1
+|geisha-wup.cdn.nintendo.net^$dnsrewrite=10.10.250.1
+|geisha-wup.cdn.nintendo.net.edgekey.net^$dnsrewrite=10.10.250.1
+|idbe-wup.cdn.nintendo.net^$dnsrewrite=10.10.250.1
+|idbe-wup.cdn.nintendo.net.edgekey.net^$dnsrewrite=10.10.250.1
+|receive-lp1.dg.srv.nintendo.net^$dnsrewrite=10.10.250.1
+# Origin
+|cdn-patch.swtor.com^$dnsrewrite=10.10.250.1
+|lvlt.cdn.ea.com^$dnsrewrite=10.10.250.1
+|origin-a.akamaihd.net^$dnsrewrite=10.10.250.1
+# Pathofexile
+|patchcdn.pathofexile.com^$dnsrewrite=10.10.250.1
+# Renegadex
+|patches.totemarts.games^$dnsrewrite=10.10.250.1
+|patches.totemarts.services^$dnsrewrite=10.10.250.1
+# Riot
+||dyn.riotcdn.net^$dnsrewrite=10.10.250.1
+|l3cdn.riotgames.com^$dnsrewrite=10.10.250.1
+|riotgamespatcher-a.akamaihd.net^$dnsrewrite=10.10.250.1
+|riotgamespatcher-a.akamaihd.net.edgesuite.net^$dnsrewrite=10.10.250.1
+|worldwide.l3cdn.riotgames.com^$dnsrewrite=10.10.250.1
+# Rockstar
+|patches.rockstargames.com^$dnsrewrite=10.10.250.1
+# Sony
+||gs2-ww-prod.psn.akadns.net^$dnsrewrite=10.10.250.1
+||gs2.sonycoment.loris-e.llnwd.net^$dnsrewrite=10.10.250.1
+||gs2.ww.prod.dl.playstation.net^$dnsrewrite=10.10.250.1
+||gs2.ww.prod.dl.playstation.net.edgesuite.net^$dnsrewrite=10.10.250.1
+|gs-sec.ww.np.dl.playstation.net^$dnsrewrite=10.10.250.1
+|gst.prod.dl.playstation.net^$dnsrewrite=10.10.250.1
+|playstation4.sony.akadns.net^$dnsrewrite=10.10.250.1
+|psnobj.prod.dl.playstation.net^$dnsrewrite=10.10.250.1
+|sgst.prod.dl.playstation.net^$dnsrewrite=10.10.250.1
+|theia.dl.playstation.net^$dnsrewrite=10.10.250.1
+|tmdb.np.dl.playstation.net^$dnsrewrite=10.10.250.1
+|uef.np.dl.playstation.net^$dnsrewrite=10.10.250.1
+|vulcan.dl.playstation.net^$dnsrewrite=10.10.250.1
+# Square
+|patch-dl.ffxiv.com^$dnsrewrite=10.10.250.1
+# Steam
+|lancache.steamcontent.com^$dnsrewrite=10.10.250.1
+# Teso
+|live.patcher.elderscrollsonline.com^$dnsrewrite=10.10.250.1
+# Uplay
+||cdn.ubi.com^$dnsrewrite=10.10.250.1
+# Warframe
+|content.warframe.com^$dnsrewrite=10.10.250.1
+# Wargaming.net
+|dl-wot-ak.wargaming.net^$dnsrewrite=10.10.250.1
+|dl-wot-cdx.wargaming.net^$dnsrewrite=10.10.250.1
+|dl-wot-gc.wargaming.net^$dnsrewrite=10.10.250.1
+|dl-wot-se.wargaming.net^$dnsrewrite=10.10.250.1
+|dl-wowp-ak.wargaming.net^$dnsrewrite=10.10.250.1
+|dl-wowp-cdx.wargaming.net^$dnsrewrite=10.10.250.1
+|dl-wowp-gc.wargaming.net^$dnsrewrite=10.10.250.1
+|dl-wowp-se.wargaming.net^$dnsrewrite=10.10.250.1
+|dl-wows-ak.wargaming.net^$dnsrewrite=10.10.250.1
+|dl-wows-cdx.wargaming.net^$dnsrewrite=10.10.250.1
+|dl-wows-gc.wargaming.net^$dnsrewrite=10.10.250.1
+|dl-wows-se.wargaming.net^$dnsrewrite=10.10.250.1
+|dl2.wargaming.net^$dnsrewrite=10.10.250.1
+|wg.gcdn.co^$dnsrewrite=10.10.250.1
+|wgus-wotasia.wargaming.net^$dnsrewrite=10.10.250.1
+|wgus-woteu.wargaming.net^$dnsrewrite=10.10.250.1
+# Windowsupdates
+||dl.delivery.mp.microsoft.com^$dnsrewrite=10.10.250.1
+||do.dsp.mp.microsoft.com^$dnsrewrite=10.10.250.1
+||microsoft.com.edgesuite.net^$dnsrewrite=10.10.250.1
+||update.microsoft.com^$dnsrewrite=10.10.250.1
+||windowsupdate.com^$dnsrewrite=10.10.250.1
+|amupdatedl.microsoft.com^$dnsrewrite=10.10.250.1
+|amupdatedl2.microsoft.com^$dnsrewrite=10.10.250.1
+|amupdatedl3.microsoft.com^$dnsrewrite=10.10.250.1
+|amupdatedl4.microsoft.com^$dnsrewrite=10.10.250.1
+|amupdatedl5.microsoft.com^$dnsrewrite=10.10.250.1
+# Xboxlive
+|assets1.xboxlive.com^$dnsrewrite=10.10.250.1
+|assets1.xboxlive.com.nsatc.net^$dnsrewrite=10.10.250.1
+|assets2.xboxlive.com^$dnsrewrite=10.10.250.1
+|d1.xboxlive.com^$dnsrewrite=10.10.250.1
+|xbox-mbr.xboxlive.com^$dnsrewrite=10.10.250.1
+|xvcf1.xboxlive.com^$dnsrewrite=10.10.250.1
+|xvcf2.xboxlive.com^$dnsrewrite=10.10.250.1
+#MOE
+||steamcontent.com^$dnsrewrite=10.10.250.1
+||steampipe.akamaized.net^$dnsrewrite=10.10.250.1
+||steampowered.com^$dnsrewrite=10.10.250.1
+|steamcdn-a.akamaihd.net^$dnsrewrite=10.10.250.1
+||akamaihd.net^$dnsrewrite=10.10.250.1
+||akamaized.net^$dnsrewrite=10.10.250.1
+|cooked-content-live-cdn.epicgames.com^$dnsrewrite=10.10.250.1
+||faceit-cdn.net^$dnsrewrite=10.10.250.1
+||cdn.discordapp.com^$dnsrewrite=10.10.250.1
+||eac-prod.on.epicgames.com^$dnsrewrite=10.10.250.1
+||ngx.download.nvidia.com^$dnsrewrite=10.10.250.1
+#ggleap
+#||media.ggleap.com^$dnsrewrite=10.10.250.1
+||updates.ggleap.com^$dnsrewrite=10.10.250.1
+||ggleap-updates.s3.amazonaws.com^$dnsrewrite=10.10.250.1
+#||api.ggleap.com^$dnsrewrite=10.10.250.1
+||admin.ggleap.com^$dnsrewrite=10.10.250.1
+#ShadowDefender Block
+||shadowdefender.com^
+||hashvault.pro^
+#logitech
+||updates.ghub.logitechg.com^$dnsrewrite=10.10.250.1
+||mrs52.r.cloudfront.net^$dnsrewrite=10.10.250.1
+#server-3-160-188-8.mrs52.r.cloudfront.net
+||pro-tanki.com^$dnsrewrite=10.10.250.1
